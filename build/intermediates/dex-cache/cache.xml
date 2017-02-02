@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/pre-dexed/debug/classes-5fbe220c7ebba39e6002bcbb2712bb443fc94468.jar" />
+    </item>
+    <item
+        jar="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/pre-dexed/debug/classes-b1be47761e193d62cf211a3af31a8a3ad693eedd.jar" />
+    </item>
+    <item
+        jar="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-b637ffd6b8770784ea235cc519d34253fdb31ff5.jar" />
+    </item>
+    <item
+        jar="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/pre-dexed/debug/classes-806902521381cc624fe50d799c139b9b0ae80d98.jar" />
+    </item>
+    <item
+        jar="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/pre-dexed/debug/classes-b4af8c3d34e0ff9282aa8809c7eefcb1c8f50d8c.jar" />
+    </item>
+    <item
+        jar="/Users/jaxley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-88324778641267a264564e45a885fc67128a5560.jar" />
+    </item>
+    <item
+        jar="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/jaxley/Documents/SmartLockTest/app/build/intermediates/pre-dexed/debug/classes-245108a8a35824705dae86d89ca79489e5025037.jar" />
+    </item>
+
+</items>
